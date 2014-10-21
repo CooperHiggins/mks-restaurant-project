@@ -61,6 +61,8 @@ section {
 
 .address {
     /* TODO give this section a background of #221c12 and a color of #fffdf0. make the text centered */
+    background-color: #221c12;
+    color: #fffdf0;
 }
 
 .location,
