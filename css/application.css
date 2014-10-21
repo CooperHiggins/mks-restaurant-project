@@ -4,6 +4,7 @@
 
 body {
     margin: 0;
+    background-color: #FFFDED;
     /* TODO use the Google Font 'Bitter' */
     font-size: 100%;
 }
@@ -49,7 +50,7 @@ header .tagline {
 
 section {
     padding: 2em;
-    background: #ccc;
+    background: #FFFDED;
     line-height: 1.5em;
 }
 
